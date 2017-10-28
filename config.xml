@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="MK.Logos" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>MK Logo Viewer</name>
+    <name>mkLogoViewer</name>
     <description>
         A sample Elective 1 application.
     </description>
